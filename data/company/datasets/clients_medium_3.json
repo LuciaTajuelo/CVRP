@@ -1,0 +1,355 @@
+{
+  "clients": [
+    {
+      "client": "Depot",
+      "lat": 41.469592,
+      "lon": 2.02975,
+      "demand": 0
+    },
+    {
+      "client": "08020 - Barcelona",
+      "lat": 41.4302546,
+      "lon": 2.2040522,
+      "demand": 28
+    },
+    {
+      "client": "08020 - El Prat de Llobregat",
+      "lat": 41.3142267,
+      "lon": 2.1364696,
+      "demand": 83
+    },
+    {
+      "client": "08021 - Barcelona",
+      "lat": 41.397617,
+      "lon": 2.1413415,
+      "demand": 30
+    },
+    {
+      "client": "08029 - Barcelona",
+      "lat": 41.384183,
+      "lon": 2.1454308,
+      "demand": 94
+    },
+    {
+      "client": "08033 - Barcelona",
+      "lat": 41.4528007,
+      "lon": 2.1962535,
+      "demand": 82
+    },
+    {
+      "client": "08038 - Barcelona",
+      "lat": 41.3624928,
+      "lon": 2.1401013,
+      "demand": 56
+    },
+    {
+      "client": "08039 - Barcelona",
+      "lat": 41.3451957,
+      "lon": 2.1502652,
+      "demand": 83
+    },
+    {
+      "client": "08040 - Barcelona",
+      "lat": 41.3225124,
+      "lon": 2.1381923,
+      "demand": 77
+    },
+    {
+      "client": "08100 - Mollet del Vallès",
+      "lat": 41.5360815,
+      "lon": 2.2220117,
+      "demand": 16
+    },
+    {
+      "client": "08105 - Barcelona",
+      "lat": 41.5283298,
+      "lon": 2.2229068,
+      "demand": 73
+    },
+    {
+      "client": "08105 - Sant Fost de Campsentelles",
+      "lat": 41.5263456,
+      "lon": 2.2223639,
+      "demand": 83
+    },
+    {
+      "client": "08107 - Barcelona",
+      "lat": 41.532788,
+      "lon": 2.236171,
+      "demand": 71
+    },
+    {
+      "client": "08107 - Martorelles",
+      "lat": 41.5331016,
+      "lon": 2.2284628,
+      "demand": 114
+    },
+    {
+      "client": "08110 - Moncada y Reixach",
+      "lat": 41.4891833,
+      "lon": 2.1798573,
+      "demand": 97
+    },
+    {
+      "client": "08110 - Montcada i Reixac",
+      "lat": 41.4896656,
+      "lon": 2.1732027,
+      "demand": 55
+    },
+    {
+      "client": "08120 - La Llagosta",
+      "lat": 41.5142572,
+      "lon": 2.2020062,
+      "demand": 37
+    },
+    {
+      "client": "08130 - Barcelona",
+      "lat": 41.5387018,
+      "lon": 2.1780299,
+      "demand": 26
+    },
+    {
+      "client": "08130 - Santa Perpètua de Mogoda",
+      "lat": 41.5329649,
+      "lon": 2.1942534,
+      "demand": 106
+    },
+    {
+      "client": "08130 - Santa Perpetua de moguda",
+      "lat": 41.5323381,
+      "lon": 2.1957663,
+      "demand": 91
+    },
+    {
+      "client": "08140 - Barcelona",
+      "lat": 41.629631,
+      "lon": 2.1782569,
+      "demand": 82
+    },
+    {
+      "client": "08150 - Barcelona",
+      "lat": 41.5530014,
+      "lon": 2.2361474,
+      "demand": 62
+    },
+    {
+      "client": "08150 - Parets del Vallés",
+      "lat": 41.5713433,
+      "lon": 2.246509,
+      "demand": 69
+    },
+    {
+      "client": "08150 - Parets del Vallès",
+      "lat": 41.5521138,
+      "lon": 2.2358454,
+      "demand": 37
+    },
+    {
+      "client": "08160 - Barcelona",
+      "lat": 41.5478975,
+      "lon": 2.255087,
+      "demand": 73
+    },
+    {
+      "client": "08160 - Montmeló",
+      "lat": 41.5553124,
+      "lon": 2.2574973,
+      "demand": 28
+    },
+    {
+      "client": "08170 - Montornès del Vallès",
+      "lat": 41.5427877,
+      "lon": 2.2402156,
+      "demand": 83
+    },
+    {
+      "client": "08170 - Montornès del Vallès, Barcelona",
+      "lat": 41.5417126,
+      "lon": 2.2368123,
+      "demand": 83
+    },
+    {
+      "client": "08174 - Sant Cugat del Vallès",
+      "lat": 41.4872371,
+      "lon": 2.0502636,
+      "demand": 88
+    },
+    {
+      "client": "08181 - Sentmenat",
+      "lat": 41.61493,
+      "lon": 2.1401212,
+      "demand": 38
+    },
+    {
+      "client": "08184 - Palau de Plegamans",
+      "lat": 41.5721774,
+      "lon": 2.1741112,
+      "demand": 20
+    },
+    {
+      "client": "08184 - Palau-solità i Plegamans",
+      "lat": 41.5630363,
+      "lon": 2.1796268,
+      "demand": 49
+    },
+    {
+      "client": "08185 - Lliçà de Vall",
+      "lat": 41.583538,
+      "lon": 2.2428925,
+      "demand": 90
+    },
+    {
+      "client": "08186 - Barcelona",
+      "lat": 41.600588,
+      "lon": 2.2543248,
+      "demand": 69
+    },
+    {
+      "client": "08186 - Lliçà dAmunt",
+      "lat": 41.6000873,
+      "lon": 2.2546087,
+      "demand": 97
+    },
+    {
+      "client": "08191 - Rubí",
+      "lat": 41.463355,
+      "lon": 2.0066486,
+      "demand": 60
+    },
+    {
+      "client": "08192 - Sabadell",
+      "lat": 41.5332105,
+      "lon": 2.0986784,
+      "demand": 56
+    },
+    {
+      "client": "08192 - San Quirico del Vallés",
+      "lat": 41.5373203,
+      "lon": 2.0930336,
+      "demand": 116
+    },
+    {
+      "client": "08192 - Sant Quirze del Vallès",
+      "lat": 41.5249202,
+      "lon": 2.0917022,
+      "demand": 29
+    },
+    {
+      "client": "08197 - Badalona",
+      "lat": 41.4564892,
+      "lon": 2.2277434,
+      "demand": 34
+    },
+    {
+      "client": "08202 - Sabadell",
+      "lat": 41.5360568,
+      "lon": 2.1335997,
+      "demand": 79
+    },
+    {
+      "client": "08203 - Sabadell",
+      "lat": 41.5326917,
+      "lon": 2.1105682,
+      "demand": 84
+    },
+    {
+      "client": "08205 - Sabadell",
+      "lat": 41.5122087,
+      "lon": 2.1035824,
+      "demand": 60
+    },
+    {
+      "client": "08210 - Barberà del Vallès",
+      "lat": 41.5155142,
+      "lon": 2.1536586,
+      "demand": 75
+    },
+    {
+      "client": "08210 - Barcelona",
+      "lat": 41.5178429,
+      "lon": 2.1453861,
+      "demand": 61
+    },
+    {
+      "client": "08210 - Sabadell",
+      "lat": 41.5326019,
+      "lon": 2.1328531,
+      "demand": 88
+    },
+    {
+      "client": "08211 - Castellar del Vallès",
+      "lat": 41.5909932,
+      "lon": 2.0925553,
+      "demand": 114
+    },
+    {
+      "client": "08213 - Polinyà",
+      "lat": 41.5409891,
+      "lon": 2.1631942,
+      "demand": 106
+    },
+    {
+      "client": "08224 - Terrassa",
+      "lat": 41.545267,
+      "lon": 2.011013,
+      "demand": 84
+    },
+    {
+      "client": "08227 - Terrassa",
+      "lat": 41.5467888,
+      "lon": 2.0428639,
+      "demand": 65
+    },
+    {
+      "client": "08228 - Terrassa",
+      "lat": 41.535,
+      "lon": 2.03225,
+      "demand": 121
+    },
+    {
+      "client": "08231 - Barcelona",
+      "lat": 41.5176052,
+      "lon": 1.9539851,
+      "demand": 62
+    },
+    {
+      "client": "08232 - Viladecavalls",
+      "lat": 41.5614681,
+      "lon": 1.9777504,
+      "demand": 83
+    },
+    {
+      "client": "08233 - Vacarisses",
+      "lat": 41.5942125,
+      "lon": 1.9132165,
+      "demand": 111
+    },
+    {
+      "client": "08243 - Manresa",
+      "lat": 41.7390192,
+      "lon": 1.8488473,
+      "demand": 90
+    },
+    {
+      "client": "08251 - Santpedor",
+      "lat": 41.7758347,
+      "lon": 1.8519902,
+      "demand": 55
+    },
+    {
+      "client": "08272 - Sant Fruitós de Bages",
+      "lat": 41.7644996,
+      "lon": 1.9008231,
+      "demand": 97
+    }
+  ],
+  "meta": {
+    "num_vehicles": 5,
+    "vehicle_capacity": 800,
+    "total_capacity": 4000,
+    "total_demand": 4000,
+    "min_demand": 10,
+    "max_demand": 100,
+    "seed": 102
+  }
+}
